@@ -1,4 +1,4 @@
-# Crypto-Tracker: A web app which is able to shows price,volume and changes in crypto currencies on real time basis. 
+# Crypto-Tracker: A web app which is capable to shows price,volume and changes in crypto currencies on real time basis. 
 
 Cryptocurrency price tracker
 
