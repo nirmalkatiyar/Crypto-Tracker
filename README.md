@@ -15,3 +15,6 @@
 6-Made a function to convert UNIX time to DayTime
 
 7-Integrated google analytics to track the live traffic data.
+
+# Link to website:
+https://nirmalkatiyar.github.io/Crypto-Tracker/
